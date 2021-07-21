@@ -11,18 +11,18 @@
         "opening": {
             "left": {
                 "custom": {
-                    "borderWidth": "0 0 0 3px",
+                    "borderWidth": "0 0 0 2px",
                     "borderStyle": "solid",
                     "borderColor": "yellow",
-                    "borderRadius": "5px"
+                    "borderRadius": "4px"
                 }
             },
             "right": {
               "custom":{
-                  "borderWidth": "0 3px 0 0",
+                  "borderWidth": "0 2px 0 0",
                   "borderStyle": "solid",
                   "borderColor": "yellow",
-                  "borderRadius": "5px"
+                  "borderRadius": "4px"
               }  
             }
         }
